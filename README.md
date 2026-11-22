@@ -2,6 +2,11 @@
 
 这是从个人本地学习看板抽出的 GitHub Pages 版本，保留原页面布局、学习计划、当前进度摘要和首屏练习样式。
 
+## 公开地址
+
+- 在线看板：https://zhoujinq.github.io/n1-study-dashboard/
+- 源代码：https://github.com/zhoujinq/n1-study-dashboard
+
 ## 发布范围
 
 | 需求 | 本版本实现 |
