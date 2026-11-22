@@ -1,0 +1,8 @@
+.links .local-link {
+  display: inline-block;
+  margin: 6px 10px 3px 0;
+  color: #5b6b66;
+  cursor: help;
+  text-decoration: none;
+  border-bottom: 1px dotted #9aa99b;
+}
